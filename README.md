@@ -3,4 +3,4 @@ How to deploy dumbflix-frontend :
 - Change url for dumbflix-backend in src/config/api.js
 - Deploy dumbflix-frontend with port 3000
 
-- CI/CD menggunkan Jenkins!!!
+- Implementasi CI/CD menggunkan Jenkins!!!
